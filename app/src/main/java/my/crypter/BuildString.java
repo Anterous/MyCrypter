@@ -6,7 +6,7 @@ public class BuildString {
 
             StringBuilder string = new StringBuilder();
 
-            string.append(c);
+            string.append(90);
 
             return String.valueOf(string);
 
